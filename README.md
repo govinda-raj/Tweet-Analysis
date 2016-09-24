@@ -16,4 +16,8 @@
     Next create, a file called twitter_streaming.py, and copy into it the code below. 
     Make sure to enter your credentials into access_token, access_token_secret, consumer_key, and consumer_secret.
 2. Reading and Understanding the data-
-3. Mining the tweets
+3. Mining the tweets:
+         -We will add tags to our tweets DataFrame in order to be able to manipualte the data easily.
+         -Target tweets that have "pogramming" or "tutorial" keywords.
+         -Extract links from the relevants tweets
+
